@@ -26,6 +26,10 @@
 ## Load Test Report
 https://docs.google.com/spreadsheets/d/15AREkVzivDXYFljaDRbohPbQ344cNMB9/edit?usp=sharing&ouid=103675646332830778644&rtpof=true&sd=true
 
+##  Load Test Scenario:
+In this load testing report conducted on the Random User API, the primary objective was to attain a targeted Transactions Per Second (TPS) rate of 2.78. The initial test encountered an error when the user count reached 1667 during a 10-minute test duration. To address this issue, the test duration was extended by an additional 50 seconds while maintaining a consistent user count, resulting in a reduction in errors. Subsequent tests encountered intermittent errors. To mitigate these, the user count remained constant while the test duration was incrementally extended. Ultimately, in Test-7, the test executed error-free; however, the achieved actual TPS stood at 2.3, which is below the initial target.
+
+
 ## Stress test Report
 https://docs.google.com/spreadsheets/d/132iz8FIvaIRKHcRmhCVi0Gd5DeqV-f7N/edit?usp=sharing&ouid=103675646332830778644&rtpof=true&sd=true
 
