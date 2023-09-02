@@ -33,4 +33,9 @@ In this load testing report conducted on the Random User API, the primary object
 ## Stress test Report
 https://docs.google.com/spreadsheets/d/132iz8FIvaIRKHcRmhCVi0Gd5DeqV-f7N/edit?usp=sharing&ouid=103675646332830778644&rtpof=true&sd=true
 
+##  Stress Test Scenario:
+In this formal Stress Testing Report conducted on the Random User API, the primary objective was to ascertain the system's bottleneck or stress test point. To maintain consistency, the test duration was fixed at 1100 seconds. In the pursuit of identifying the stress point, a systematic approach was taken, wherein the user count was incrementally increased.
+The first bottleneck was encountered when the total user count reached 45,000, resulting in performance issues. Subsequently, an attempt was made to alleviate the stress by reducing the user count to 35,000; however, errors persisted. A further reduction to 25,000 users proved to yield error-free results. To refine the stress point, the user count was subsequently increased to 26,000, ultimately revealing a 1 percent error rate in the system.
+
+
 
