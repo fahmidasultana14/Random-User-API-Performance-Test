@@ -19,12 +19,14 @@
 
 
 ## Test Report
-![screencapture-file-F-Road-to-sdt-dmoney-collection-newman-Reports-report-html-2023-08-27-23_16_24](https://github.com/fahmidasultana14/dmoney-api-newman-report/assets/101444545/0bcb8193-7f2e-4264-953a-8c0878c61119)
+![screencapture-file-F-Road-to-sdt-apache-jmeter-5-6-2-bin-Report1-index-html-2023-09-02-10_40_05](https://github.com/fahmidasultana14/Random-User-API-Performance-Test/assets/101444545/19667f87-489a-4b7a-8d85-f2f8364f31c7)
 
-## Test case
-https://docs.google.com/spreadsheets/d/1bz0MzQph7Oa8SBY-giRkm-N1zispW5-E/edit?usp=sharing&ouid=103675646332830778644&rtpof=true&sd=true
 
-## Bug Report 
-https://docs.google.com/spreadsheets/d/1X18KH63YWJ4tlR4d0cYRXgAjMpVZl8N8/edit?usp=sharing&ouid=103675646332830778644&rtpof=true&sd=true
+
+## Load Test Report
+https://docs.google.com/spreadsheets/d/15AREkVzivDXYFljaDRbohPbQ344cNMB9/edit?usp=sharing&ouid=103675646332830778644&rtpof=true&sd=true
+
+## Stress test Report
+https://docs.google.com/spreadsheets/d/132iz8FIvaIRKHcRmhCVi0Gd5DeqV-f7N/edit?usp=sharing&ouid=103675646332830778644&rtpof=true&sd=true
 
 
