@@ -1,7 +1,7 @@
 # Random-User-API-Performance-Test
 
 ## About this project:
-###  In this project I have done load testing and stess testing using jmeter on some random user . Here I have counteded expected and actual TPS through load testing and bottleneck/stress test point through stress testing.
+###  In this project I have done load testing and stress testing using jmeter on some random user. Here I have counted expected and actual TPS through load testing and bottleneck/stress test point through stress testing.
 
 
 ## Tools & Technology used:
